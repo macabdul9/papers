@@ -30,6 +30,7 @@ This repository contains list of the high impact that I have read, currently rea
 	- [Learning Transferable Features with Deep Adaptation Networks (May 2015)](https://arxiv.org/pdf/1502.02791.pdf)
 
 - #### To Do
+    - [Evaluating Lottery Tickets Under Distributional Shifts (Nov 2019)](https://arxiv.org/abs/1910.12708)
 	- [Investigating Transferability in Pretrained Language Models (Nov 2020](https://arxiv.org/pdf/2004.14975.pdf))
 	- [KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis (May 2020)](https://arxiv.org/pdf/2005.00791.pdf)
 	- [Pretrained Transformers Improve Out-of-Distribution Robustness (April 2020)](https://arxiv.org/abs/2004.06100)
@@ -98,10 +99,13 @@ This repository contains list of the high impact that I have read, currently rea
 
 ## 5. Miscellaneous
 - #### Done
+    - [When BERT Plays the Lottery, All Tickets Are Winning (Nov 2020)](https://arxiv.org/abs/2005.00561)
+    - [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask (Dec 2019)](https://arxiv.org/abs/1905.01067)
+    - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (May 2019)](https://arxiv.org/abs/1803.03635)
 	- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Oct 2020)](https://openreview.net/pdf?id=YicbFdNTTy)
 	- [Are Transformers universal approximators of sequence-to-sequence functions? (Dec 2019)](https://arxiv.org/abs/1912.10077)
 
 - #### To Do
-	- [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (may 2020)](https://arxiv.org/abs/2005.04118)
+	- [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList (May 2020)](https://arxiv.org/abs/2005.04118)
 	- [Are distributional representations ready for the real world? Evaluating word vectors for grounded perceptual meaning (May 2017)](https://arxiv.org/abs/1705.11168)
 	- [Understanding Attention for Text Classification (July 2020)](https://www.aclweb.org/anthology/2020.acl-main.312/)
