@@ -20,6 +20,7 @@ This repository contains list of the high impact that I have read, currently rea
 ## 1. Domain Adaptation
 - #### Done
 	- [Transformer Based Multi-Source Domain Adaptation (Nov 2020)](https://www.aclweb.org/anthology/2020.emnlp-main.639.pdf)
+	- [Multi-Source Domain Adaptation with Mixture of Experts (Nov 2018)](https://www.aclweb.org/anthology/D18-1498.pdf)
 	- [Neural Unsupervised Domain Adaptation in NLP—A Survey (Oct 2020)](https://arxiv.org/pdf/2006.00632.pdf)
 	- [Domain Divergences: a Survey and Empirical Analysis (Oct 2020)](https://arxiv.org/abs/2010.12198)
 	- [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks (July 2020)](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)
