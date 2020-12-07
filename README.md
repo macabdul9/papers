@@ -19,6 +19,7 @@ This repository contains list of the high impact that I have read, currently rea
 
 ## 1. Domain Adaptation
 - #### Done
+    - [SENTIX: A Sentiment-Aware Pre-Trained Model forCross-Domain Sentiment Analysis (Nov 2020)](https://www.aclweb.org/anthology/2020.coling-main.49.pdf)
 	- [Transformer Based Multi-Source Domain Adaptation (Nov 2020)](https://www.aclweb.org/anthology/2020.emnlp-main.639.pdf)
 	- [Multi-Source Domain Adaptation with Mixture of Experts (Nov 2018)](https://www.aclweb.org/anthology/D18-1498.pdf)
 	- [Neural Unsupervised Domain Adaptation in NLP—A Survey (Oct 2020)](https://arxiv.org/pdf/2006.00632.pdf)
@@ -70,9 +71,10 @@ This repository contains list of the high impact that I have read, currently rea
 - #### To Do
 	- [Modeling Dialogue in Conversational Cognitive Health Screening Interviews (May 2020)](https://www.aclweb.org/anthology/2020.lrec-1.147/)
 
-### 3.2 Dialouge Generation
+### 3.2 Dialogue Generation
 - #### Done
 	- [Neural Generation Meets Real People: Towards Emotionally Engaging Mixed-Initiative Conversations (Aug 2020)](https://arxiv.org/abs/2008.12348)
+	- [DIALOGPT : Large-Scale Generative Pre-trainingfor Conversational Response Generation (May 2020)](https://arxiv.org/pdf/1911.00536.pdf)
 	- [A Simple Language Model for Task-Oriented Dialogue (May 2020)](https://arxiv.org/abs/2005.00796)
 	- [CAiRE: An Empathetic Neural Chatbot (April 2020)](https://arxiv.org/abs/1907.12108)
 	- [Neural Assistant: Joint Action Prediction, Response Generation, and Latent Knowledge Reasoning (Oct 2019)](https://arxiv.org/abs/1910.14613)
