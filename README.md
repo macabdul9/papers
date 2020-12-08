@@ -14,6 +14,8 @@ This repository contains list of the high impact that I have read, currently rea
 	
 - #### To Do
 	- [PAY ATTENTION WHEN REQUIRED (Sep 2019)](https://arxiv.org/abs/2009.04534)
+	- [PAY ATTENTION WHEN REQUIRED (Sep 2019)](https://arxiv.org/abs/2009.04534)
+	- 
 	- [Are Sixteen Heads Really Better than One? (May 2019)](https://arxiv.org/pdf/1905.10650.pdf)
 
 
